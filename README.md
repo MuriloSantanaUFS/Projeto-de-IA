@@ -60,9 +60,9 @@ A `RandomForestClassifier` foi selecionada como modelo final por apresentar o me
 Detalhes completos (matriz de confusão, acurácia, precisão, revocação e F1-score por classe) estão disponíveis no notebook, seção 7.
 
 
-## Link do vídeo
+## 🎥 Link do vídeo
 
-*[iremos inserir após o vídeo estiver pronto]*
+[Assistir à apresentação](https://drive.google.com/file/d/1pmfe3VUh2ENQ9rtAjDPBdQ0uEQEGjNAp/view?usp=drivesdk)
 
 ## Declaração de uso de ferramentas de IA
 
