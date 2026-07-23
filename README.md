@@ -62,7 +62,7 @@ Detalhes completos (matriz de confusão, acurácia, precisão, revocação e F1-
 
 ## 🎥 Link do vídeo
 
-[Assistir à apresentação](https://drive.google.com/file/d/1pmfe3VUh2ENQ9rtAjDPBdQ0uEQEGjNAp/view?usp=drivesdk)
+[Assistir à apresentação](https://drive.google.com/file/d/1pmfe3VUh2ENQ9rtAjDPBdQOuEQEGjNAp/view?usp=drivesdk)
 
 ## Declaração de uso de ferramentas de IA
 
